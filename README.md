@@ -58,4 +58,5 @@ The purpose of this homelab is to build beginner-level SOC analyst skills in log
 This project demonstrates beginner-level security operations skills related to SIEM monitoring, log searching, event review, and cyber incident investigation.
 
 ## Screenshot
-![Splunk Search Results](screenshots/lab-002-splunk-search-results.png)
+
+![Splunk Search Results](screenshots/lab-002-splunk-search-results.PNG)
